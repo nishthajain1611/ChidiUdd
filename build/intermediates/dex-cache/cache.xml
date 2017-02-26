@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.0.1_0a28b9b4a05a9ca9d65fff32cafd6fc8f62641de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.1_d6b6a693e19ce2ceb500ddebe9f14b64d525338e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1_8e6f283c443e02da8af3ce3eb2e9dee03136db67.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="31829744250819cfc582d1a98f22d1f3ec575f37">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_684ceee6243f24f1f46d3890035f5ea1ebf1fe59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_d6b6a693e19ce2ceb500ddebe9f14b64d525338e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishtha jain\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1_ede9ed6ccadeb5d38a33bc2678d30555c29113d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e48377dad1666aa2f6e8aab1868b52434be5dc1">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_05e1e67168fe788f6f122c6b452473f890f0ee4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_8e6f283c443e02da8af3ce3eb2e9dee03136db67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nishtha jain\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_ede9ed6ccadeb5d38a33bc2678d30555c29113d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\nishtha jain\AndroidStudioProjects\ChidiUdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_0a28b9b4a05a9ca9d65fff32cafd6fc8f62641de\classes.dex" />
+    </item>
+
+</items>

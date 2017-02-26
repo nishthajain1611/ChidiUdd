@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chidi Udd</string>
+    <string name="how_to_play">For every object displayed on the screen, answer whether it flies or not.\n\n
+        Swipe UP fast to answer \'fly\'.\n\n
+        Swipe DOWN fast to answer \'does not fly\'.\n\n
+        But here is the twist.
+        Not every object mentioned is a subject to this question.
+        So if you think the thing \'can\' fly, it flies.\n\n
+        Beware!! If you press back button, you lose your score.
+    </string>
+    <string name="scoreString">highscore</string>
+</resources>
